@@ -1,5 +1,5 @@
 # DigiCube Repository
-== More information at http://www.freestaking.com
+## More information at http://www.freestaking.com
 
 Minimum Coin Age to stake at 2000% must be > 2% of block number
 Under this threshold = 1 CUBE per block (encourages users to combine coins or hold a minimum amount)
