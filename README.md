@@ -1,4 +1,4 @@
-# DigiCube Repository
+# DigiCube Repository (Version 1.2 | Block 500k)
 ### More information at http://www.freestaking.com
 #  
 #### New DigiCube Staking Specs
