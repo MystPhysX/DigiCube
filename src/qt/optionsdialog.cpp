@@ -214,7 +214,7 @@ MainOptionsPage::MainOptionsPage(QWidget *parent):
     proxy_hbox->addStretch(1);
 
     layout->addLayout(proxy_hbox);
-    QLabel *fee_help = new QLabel(tr("Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 PPC fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment."));
+    QLabel *fee_help = new QLabel(tr("DigiCube has no network transaction fees. This means you can send and combine coins as much and as often as you want for FOR FREE. Play with it, experiment, and set your blocks up perfectly to maximize your stake returns"));
     fee_help->setWordWrap(true);
     layout->addWidget(fee_help);
 

@@ -1139,7 +1139,7 @@ void MapPort(bool /* unused fMapPort */)
 // The second name should resolve to a list of seed addresses.
 // testnet dns seed begins with 't', all else are DigiCube dns seeds.
 static const char *strDNSSeed[][2] = {
-    {"seed", "coin.thecryptoninja.website"},
+    {"seed", "digicubeseeds.freestaking.com"},
 };
 
 void ThreadDNSAddressSeed(void* parg)

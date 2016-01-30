@@ -1122,7 +1122,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 PPC fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <source>DigiCube has no network transaction fees. This means you can send and combine coins as much and as often as you want for FOR FREE. Play with it, experiment, and set your blocks up perfectly to maximize your stake returns</source>
         <translation>Vorgeschriebene Netzwerktransaktionsgebühr pro übertragenes kB. Die meisten Transaktionen sind 1 kB groß und erfordern eine Gebühr von 0.01 PPC. Hinweis: Die Transaktionsgröße kann sich je nach Anzahl der Eingangstransaktionen, die zum Erreichen des Gesamtbetrages zusammengerechnet werden,  erhöhen.</translation>
     </message>
     <message>

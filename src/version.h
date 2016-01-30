@@ -15,7 +15,7 @@
 
 // DigiCube version - intended for display purpose only
 #define CUBE_VERSION_MAJOR       1
-#define CUBE_VERSION_MINOR       0
+#define CUBE_VERSION_MINOR       2
 #define CUBE_VERSION_REVISION    0
 #define CUBE_VERSION_BUILD       0
 
@@ -40,7 +40,7 @@ static const int PPCOIN_VERSION =
 // bitcoin version - reference for code tracking
 #define BITCOIN_VERSION_MAJOR       0
 #define BITCOIN_VERSION_MINOR       6
-#define BITCOIN_VERSION_REVISION    3
+#define BITCOIN_VERSION_REVISION    4
 #define BITCOIN_VERSION_BUILD       0
 
 static const int BITCOIN_VERSION =
