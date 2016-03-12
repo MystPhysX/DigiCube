@@ -41,6 +41,7 @@
         <file>res/icons/horizontal_trans-no-shadow.png</file>
         <file alias="DigiCube_icon">res/icons/DigiCube.png</file>
         <file alias="DigiCube_tooltip">res/icons/DigiCube.png</file>
+		<file alias="web">res/icons/web.png</file>
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
