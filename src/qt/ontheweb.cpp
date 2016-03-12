@@ -25,3 +25,13 @@ Ontheweb::~Ontheweb()
 {
     delete ui;
 }
+
+void Ontheweb::on_Refresh_clicked()
+{
+    ui->webView->reload();
+}
+
+void Ontheweb::on_Home_clicked()
+{
+    ui->webView->load(QUrl("http://www.freestaking.com/qt"));
+}

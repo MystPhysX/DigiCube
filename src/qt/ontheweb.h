@@ -19,6 +19,10 @@ public:
 
 virtual ~Ontheweb();    
 
+private slots:
+    void on_Refresh_clicked();
+
+    void on_Home_clicked();
 
 private:
 	Ui::Ontheweb *ui;
