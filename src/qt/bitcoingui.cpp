@@ -352,8 +352,8 @@ void BitcoinGUI::createToolBars()
     toolbar->addAction(receiveCoinsAction);
     toolbar->addAction(historyAction);
 	toolbar->addAction(addressBookAction);
-    toolbar->addAction(mintingAction);
 	toolbar->addAction(onthewebAction);
+    toolbar->addAction(mintingAction);
 #ifdef FIRST_CLASS_MESSAGING
     toolbar->addAction(messageAction);
 #endif
